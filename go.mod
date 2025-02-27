@@ -1,3 +1,3 @@
-module github.com/Shopify/go-lua
+module github.com/KaijuEngine/go-lua
 
-go 1.22
+go 1.24
